@@ -1,6 +1,6 @@
 {
-  "patinaeq":           { "version": "1.1.0", "url": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest", "notes": "Release 1.1.0." },
-  "keepsakecompressor": { "version": "1.1.0", "url": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest", "notes": "Release 1.1.0." },
-  "keystonemaster":     { "version": "1.1.0", "url": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest", "notes": "Release 1.1.0." },
-  "sentinel":           { "version": "1.0.0", "url": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest", "notes": "Initial release." }
+  "patinaeq":           { "version": "1.1.0",  "download": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest/download/Patina.EQ.pkg",          "url": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest", "notes": "Release 1.1.0." },
+  "keepsakecompressor": { "version": "1.1.0",  "download": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest/download/Keepsake.Compressor.pkg", "url": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest", "notes": "Release 1.1.0." },
+  "keystonemaster":     { "version": "1.1.0",  "download": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest/download/Keystone.Master.pkg",     "url": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest", "notes": "Release 1.1.0." },
+  "sentinel":           { "version": "1.0.0", "download": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest/download/Sentinel.pkg",             "url": "https://github.com/heirloomaudio/heirloomaudio.github.io/releases/latest", "notes": "Initial release." }
 }
